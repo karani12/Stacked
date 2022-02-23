@@ -22,5 +22,4 @@ Well, to pool resources that are free. A book, a twitter thread, a YouTube tutor
 -  Unauthenticated users can access the feed page
 -  Authenticated users can post and share resources that they have found to be reallly helpful
 
-## Where you can find the project
-http://stacked.live/
+
